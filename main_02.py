@@ -17,7 +17,7 @@
 
 
 import streamlit as st 
-from sklearn import datasets
+# from sklearn import datasets
 from sklearn.decomposition import PCA
 import pandas as pd
 import numpy as np
